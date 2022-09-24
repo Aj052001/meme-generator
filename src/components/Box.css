@@ -1,0 +1,10 @@
+*{
+    margin: 0;padding: 0;
+}
+.box{
+    height: 10rem;width: 10rem;
+    background-color:black;
+    margin: 1rem;
+    display: inline-block;
+    border-radius: .7rem;
+}
