@@ -8,22 +8,6 @@ import Main from './components/Main';
 // import Boxdata from './Boxdata.js'
 
 function App() {
-
-  // const [square,setSquare]=React.useState(Boxdata)
-  // const squareElement  = square.map((square)=>(
-  
-  //       // <div className="box" key = {i} style={style}>
-  // // console.log(square.on)
-  //       // </div>
-  //       <Box key={square.id} on= {square.on} />
-  // ))
-  
-
-
-
-
-
-
   // const[state,setState]=React.useState("Ravi")//how to data flow in components 
   return (
     <div>
@@ -31,9 +15,6 @@ function App() {
      <Main/>
      {/* <Child2 user ={state}/> */}
      {/* <Child1  user = {state}/> */}
-     {/* <h1>Box will be here </h1> */}
-     {/* {squareElement} */}
-
     </div>
   );
 }

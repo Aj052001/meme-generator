@@ -38,12 +38,3 @@
 }
 
 
-
-.boxData {
-  height: 10rem;
-  width: 10rem;
-  border: 1px solid black;
-  display: inline-block;
-  margin-right: 4px;
-  border-radius: 5px;
-}
